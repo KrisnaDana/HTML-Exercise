@@ -1,0 +1,24 @@
+body {
+	font-family: segoe ui, sans-serif;
+	background-image: url(Gambar/6578.jpg);
+	background-size: 100%;
+}
+h1, h3, h4, p, ul, li {
+	color: #615F5F;
+}
+h1 {
+	font-size: 72px;
+	color: #E69A22;
+	font-variant: small-caps;
+}
+h3, h4, p, ul, li {
+	background-color: #F1EDED;
+}
+h3 {
+	color: #E69A22;
+	font-style: underline;
+}
+h5 {
+	font-size: 24px;
+	text-align: center;
+}

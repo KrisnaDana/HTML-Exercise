@@ -1,0 +1,16 @@
+body {
+	font-family: segoe ui, sans-serif;
+	color: #868686;
+	background-image: url(gambar/day.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+h1 {
+	text-align: center;
+}
+h3 {
+	font-size: 20px;
+}
+.lol {
+	background-color: white;
+}
